@@ -1,10 +1,6 @@
 # DS-Project1
 Udacity Data Science Nanodegree Project 1 - Writing a Blog Post
 
-LINK TO BLOG ARTICLE - https://medium.com/@neel_pop/three-simple-rules-to-book-the-perfect-airbnb-ab4e1d1aa8b3?sk=864e2b686cacbe4d998f9991b35bd024
-
-This was not submitted as a link on Udacity and the submission couldn't be changed
-
 Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
